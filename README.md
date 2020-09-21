@@ -1,1 +1,2 @@
-# ReactCourse
+# boilerplate app
+
